@@ -6,7 +6,7 @@ const Header = () => {
         <nav className="navbar navbar-light bg-primary">
             <div className="container-fluid">
                 <Link to="/" className="navbar-brand text-light">React-app</Link>
-                <a href="!#" className="navbar-brand text-light" >Repo-link</a>
+                <a href="https://github.com/mikhailxrp/react-food" className="navbar-brand text-light" >Repo-link</a>
             </div>
         </nav>
     );
