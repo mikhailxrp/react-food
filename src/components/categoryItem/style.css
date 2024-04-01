@@ -1,0 +1,7 @@
+.card-item-text {
+  display: flex;
+  flex-direction: column;
+}
+.card-body {
+  flex-grow: 1;
+}

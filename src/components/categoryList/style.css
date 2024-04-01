@@ -1,0 +1,9 @@
+.item-wrapper {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  column-gap: 15px;
+  row-gap: 15px;
+  flex-wrap: wrap;
+}
